@@ -1,12 +1,10 @@
-## Hi there 👋
+# 서비스소개
+---
+- 제목: 조각집
+- 소개: 자신의 추억을 게시글로 올려 소중한 사람들과 공유할 수 있는 추억 기록 및 공유 서비스
 
-<!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 팀원 소개
+---
+- 프론트엔드 : 이수용, 서윤수, 김민혁
+- 벡엔드 : 김준수, 염수림, 명승희, 강지원
